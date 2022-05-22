@@ -6,7 +6,7 @@ import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
 import com.numberone.common.annotation.Excel;
 import com.numberone.common.base.BaseEntity;
-import com.numberone.common.constant.ScheduleConstants;
+import com.numberone.common.enums.constant.ScheduleConstants;
 import com.numberone.common.utils.StringUtils;
 import com.numberone.quartz.util.CronUtils;
 

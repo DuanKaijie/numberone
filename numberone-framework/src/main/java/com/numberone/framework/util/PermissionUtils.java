@@ -1,7 +1,7 @@
 package com.numberone.framework.util;
 
 import org.apache.commons.lang3.StringUtils;
-import com.numberone.common.constant.PermissionConstants;
+import com.numberone.common.enums.constant.PermissionConstants;
 import com.numberone.common.utils.MessageUtils;
 
 /**

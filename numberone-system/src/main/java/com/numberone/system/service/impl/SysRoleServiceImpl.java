@@ -8,7 +8,7 @@ import java.util.Set;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import com.numberone.common.annotation.DataScope;
-import com.numberone.common.constant.UserConstants;
+import com.numberone.common.enums.constant.UserConstants;
 import com.numberone.common.exception.BusinessException;
 import com.numberone.common.support.Convert;
 import com.numberone.common.utils.StringUtils;

@@ -12,7 +12,7 @@ import org.quartz.TriggerBuilder;
 import org.quartz.TriggerKey;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import com.numberone.common.constant.ScheduleConstants;
+import com.numberone.common.enums.constant.ScheduleConstants;
 import com.numberone.common.exception.job.TaskException;
 import com.numberone.common.exception.job.TaskException.Code;
 import com.numberone.quartz.domain.SysJob;

@@ -8,7 +8,7 @@ import org.apache.shiro.crypto.hash.Md5Hash;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
-import com.numberone.common.constant.Constants;
+import com.numberone.common.enums.constant.Constants;
 import com.numberone.common.exception.user.UserPasswordNotMatchException;
 import com.numberone.common.exception.user.UserPasswordRetryLimitExceedException;
 import com.numberone.common.utils.MessageUtils;

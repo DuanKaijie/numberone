@@ -1,4 +1,4 @@
-package com.numberone.common.constant;
+package com.numberone.common.enums.constant;
 
 /**
  * 通用常量信息

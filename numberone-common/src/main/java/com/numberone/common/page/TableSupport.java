@@ -1,6 +1,6 @@
 package com.numberone.common.page;
 
-import com.numberone.common.constant.Constants;
+import com.numberone.common.enums.constant.Constants;
 import com.numberone.common.utils.ServletUtils;
 
 /**

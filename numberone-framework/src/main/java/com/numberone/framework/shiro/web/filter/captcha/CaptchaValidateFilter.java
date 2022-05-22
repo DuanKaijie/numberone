@@ -5,7 +5,7 @@ import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 import org.apache.shiro.web.filter.AccessControlFilter;
 import com.google.code.kaptcha.Constants;
-import com.numberone.common.constant.ShiroConstants;
+import com.numberone.common.enums.constant.ShiroConstants;
 import com.numberone.common.utils.StringUtils;
 import com.numberone.framework.util.ShiroUtils;
 

@@ -4,7 +4,7 @@ import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import org.apache.shiro.web.filter.PathMatchingFilter;
 import org.springframework.beans.factory.annotation.Autowired;
-import com.numberone.common.constant.ShiroConstants;
+import com.numberone.common.enums.constant.ShiroConstants;
 import com.numberone.framework.shiro.session.OnlineSession;
 import com.numberone.framework.shiro.session.OnlineSessionDAO;
 

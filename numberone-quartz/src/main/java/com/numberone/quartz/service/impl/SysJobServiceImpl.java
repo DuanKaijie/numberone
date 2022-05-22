@@ -6,7 +6,7 @@ import org.quartz.CronTrigger;
 import org.quartz.Scheduler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.numberone.common.constant.ScheduleConstants;
+import com.numberone.common.enums.constant.ScheduleConstants;
 import com.numberone.common.support.Convert;
 import com.numberone.quartz.domain.SysJob;
 import com.numberone.quartz.mapper.SysJobMapper;

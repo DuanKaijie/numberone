@@ -9,7 +9,7 @@ import org.apache.shiro.web.filter.AccessControlFilter;
 import org.apache.shiro.web.util.WebUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
-import com.numberone.common.constant.ShiroConstants;
+import com.numberone.common.enums.constant.ShiroConstants;
 import com.numberone.common.enums.OnlineStatus;
 import com.numberone.framework.shiro.session.OnlineSession;
 import com.numberone.framework.shiro.session.OnlineSessionDAO;

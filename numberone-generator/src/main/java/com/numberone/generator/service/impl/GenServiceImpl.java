@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import com.numberone.common.config.Global;
-import com.numberone.common.constant.Constants;
+import com.numberone.common.enums.constant.Constants;
 import com.numberone.common.utils.StringUtils;
 import com.numberone.generator.domain.ColumnInfo;
 import com.numberone.generator.domain.TableInfo;

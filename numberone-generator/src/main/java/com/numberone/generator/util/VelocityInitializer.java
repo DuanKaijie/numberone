@@ -2,7 +2,7 @@ package com.numberone.generator.util;
 
 import java.util.Properties;
 import org.apache.velocity.app.Velocity;
-import com.numberone.common.constant.Constants;
+import com.numberone.common.enums.constant.Constants;
 
 /**
  * VelocityEngine工厂

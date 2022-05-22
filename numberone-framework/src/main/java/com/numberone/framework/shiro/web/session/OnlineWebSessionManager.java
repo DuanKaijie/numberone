@@ -13,7 +13,7 @@ import org.apache.shiro.session.mgt.SessionKey;
 import org.apache.shiro.web.session.mgt.DefaultWebSessionManager;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import com.numberone.common.constant.ShiroConstants;
+import com.numberone.common.enums.constant.ShiroConstants;
 import com.numberone.common.utils.spring.SpringUtils;
 import com.numberone.framework.shiro.session.OnlineSession;
 import com.numberone.system.domain.SysUserOnline;

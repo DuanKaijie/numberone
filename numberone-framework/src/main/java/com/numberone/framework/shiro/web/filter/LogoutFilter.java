@@ -6,7 +6,7 @@ import org.apache.shiro.session.SessionException;
 import org.apache.shiro.subject.Subject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import com.numberone.common.constant.Constants;
+import com.numberone.common.enums.constant.Constants;
 import com.numberone.common.utils.MessageUtils;
 import com.numberone.common.utils.StringUtils;
 import com.numberone.framework.manager.AsyncManager;

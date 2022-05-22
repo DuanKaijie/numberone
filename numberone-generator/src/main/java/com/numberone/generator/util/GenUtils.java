@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 import org.apache.velocity.VelocityContext;
 import com.numberone.common.config.Global;
-import com.numberone.common.constant.Constants;
+import com.numberone.common.enums.constant.Constants;
 import com.numberone.common.utils.DateUtils;
 import com.numberone.common.utils.StringUtils;
 import com.numberone.generator.domain.ColumnInfo;

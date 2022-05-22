@@ -3,7 +3,7 @@ package com.numberone.framework.manager.factory;
 import java.util.TimerTask;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import com.numberone.common.constant.Constants;
+import com.numberone.common.enums.constant.Constants;
 import com.numberone.common.utils.AddressUtils;
 import com.numberone.common.utils.ServletUtils;
 import com.numberone.common.utils.spring.SpringUtils;

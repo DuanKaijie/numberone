@@ -13,7 +13,7 @@ import java.util.Map;
 import java.util.Set;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.numberone.common.constant.UserConstants;
+import com.numberone.common.enums.constant.UserConstants;
 import com.numberone.common.utils.StringUtils;
 import com.numberone.system.domain.SysMenu;
 import com.numberone.system.domain.SysRole;

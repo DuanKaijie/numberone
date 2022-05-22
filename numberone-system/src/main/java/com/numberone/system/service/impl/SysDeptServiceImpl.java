@@ -7,7 +7,7 @@ import java.util.Map;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import com.numberone.common.annotation.DataScope;
-import com.numberone.common.constant.UserConstants;
+import com.numberone.common.enums.constant.UserConstants;
 import com.numberone.common.exception.BusinessException;
 import com.numberone.common.utils.StringUtils;
 import com.numberone.system.domain.SysDept;
